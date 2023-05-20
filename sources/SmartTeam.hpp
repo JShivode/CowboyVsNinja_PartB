@@ -37,6 +37,10 @@ namespace ariel {
 
         void print() override;
 
+        Character* closestToLeader(Team* enemyTeam);
+
+        Character* closestEnemy(Character* soldier, Team* enemyTeam);
+
        
     };
 }
