@@ -4,10 +4,7 @@
   about the positions of their forces and their status as well as 
   take into account the situation of the attacking team in order to maximize damage.
 ***********
-When this assignment will be tested in the laboratory, students with a smart, 
-creative, efficient and effective algorithm will win bonus points 
-(it is impossible to exceed the maximum 10 and you can still get a 10 
-with a simple algorithm, but a good algorithm will force mistakes elsewhere)*/
+*/
 
 #ifndef SMART_TEAM_HPP
 #define SMART_TEAM_HPP
